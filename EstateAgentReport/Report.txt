@@ -1,0 +1,6 @@
+AGENT LOCATION: Pretoria
+ESTATE AGENT NAME: Joe Bloggs
+PROPERTY PRICE: R 1600000
+COMMISSION PERCENTAGE: 10.0%
+CALCULATED COMMISSION: R 160000.0
+**********************************************************************
